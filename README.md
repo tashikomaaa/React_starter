@@ -3,5 +3,8 @@ just a react web-client starter
 
 ### Based on 
 - react
-- babel
-- 
+- webpack
+
+### Clone the depo
+```bash 
+git clone 
