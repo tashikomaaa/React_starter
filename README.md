@@ -6,7 +6,7 @@ just a react web-client starter
 - webpack
 - yarn
 - babel
-(with some ESlint, for the beauty of the code)
+- (with some ESlint, for the beauty of the code)
 
 ### Clone the depo
 ```bash 
