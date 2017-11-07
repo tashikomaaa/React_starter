@@ -4,6 +4,9 @@ just a react web-client starter
 ### Based on 
 - react
 - webpack
+- yarn
+- babel
+(with some ESlint, for the beauty of the code)
 
 ### Clone the depo
 ```bash 
