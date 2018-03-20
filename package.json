@@ -1,7 +1,7 @@
 {
-    "name": "bootstrap",
+    "name": "react_starter",
     "version": "1.0.0",
-    "description": "Scaffold React web app with Webpack 2",
+    "description": "React web app with Webpack 2",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,23 +10,20 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/vijayst/react-webpack.git"
+        "url": "git+https://github.com/tashikomaaa/React_starter.git"
     },
     "keywords": [
         "React",
         "Webpack",
         "Babel"
     ],
-    "author": "Vijay Thirugnanam",
-    "license": "GPL-3.0",
-    "bugs": {
-        "url": "https://github.com/vijayst/react-webpack/issues"
-    },
-    "homepage": "https://github.com/vijayst/react-webpack#readme",
+    "author": "Aldwin moutarlier",
+    "homepage": "https://github.com/tashikomaaa/React_starter",
     "dependencies": {
         "react": "^15.6.1",
         "react-dom": "^15.6.1",
-        "react-router-dom": "^4.2.2"
+        "react-router-dom": "^4.2.2",
+        "styled-components": "^3.2.3"
     },
     "devDependencies": {
         "babel-core": "^6.26.0",

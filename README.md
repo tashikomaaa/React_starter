@@ -6,6 +6,7 @@ just a react web-client starter
 - webpack
 - yarn
 - babel
+- yarn (needeed)
 - (with some ESlint, for the beauty of the code)
 
 ### Clone the depo
@@ -15,7 +16,7 @@ git clone https://github.com/tashikomaaa/React_starter.git
 
 ### Install all the dependencies 
 ```bash 
-cd React_starter && npm install -save
+cd React_starter && yarn install
 ```
 
 ### Start the project 
@@ -26,6 +27,10 @@ yarn start
 ### For change the starter and make it your's
 #### modify the src folder
 
+```bash
+src/components/
+src/app.jsx // for the Router 
+```
 
 #### for questions, request send a mail !! 
 
