@@ -23,4 +23,4 @@ export default styled(Home)`
 ```
 
 don't forget to implement the `className` in the propTypes of your component
-and give to the first element the `className={className}`
+and give it to the first element the `className={className}`
