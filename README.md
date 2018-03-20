@@ -28,7 +28,7 @@ yarn start
 #### modify the src folder
 
 ## styled components implement
-https://github.com/tashikomaaa/React_starter/docs
+<a href="https://github.com/tashikomaaa/React_starter/tree/master/docs" />
 
 #### for questions, request send a mail !! 
 
