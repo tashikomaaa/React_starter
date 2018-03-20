@@ -27,10 +27,8 @@ yarn start
 ### For change the starter and make it your's
 #### modify the src folder
 
-```bash
-src/components/
-src/app.jsx // for the Router 
-```
+## styled components implement
+https://github.com/tashikomaaa/React_starter/docs
 
 #### for questions, request send a mail !! 
 
