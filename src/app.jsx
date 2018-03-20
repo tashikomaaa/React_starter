@@ -4,12 +4,10 @@ import ReactDOM from 'react-dom';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 
 // Components
-import Home from './components/Home.jsx';
-import NotFound from './components/NotFound.jsx';
+import Home from './components/Home';
+import NotFound from './components/NotFound';
 // css
-require('./assets/styles/app.scss');
-require('./assets/bootstrap/dist/css/bootstrap.min.css');
-require('./assets/bootstrap/dist/css/bootstrap-theme.min.css');
+
 
 ReactDOM.render(
     <Router>
