@@ -27,7 +27,7 @@ yarn start
 ### For change the starter and make it your's
 #### modify the src folder
 
-<a href="https://github.com/tashikomaaa/React_starter/tree/master/docs" >styled components implement</a>
+- <a href="https://github.com/tashikomaaa/React_starter/tree/master/docs" >styled components implement</a>
 
 #### for questions, request send a mail !! 
 
